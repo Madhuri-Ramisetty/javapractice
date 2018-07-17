@@ -1,20 +1,22 @@
 package oca.javaclasses;
 
-class Add
+class Add//super class
 {
 	public int add(int i,int j)
 	{
 		return i+j;
 	}
 }
-class Sub extends Add
+//single level inheritance
+class Sub extends Add//sub class
 {
 	public int sub(int i,int j)
 	{
 		return i-j;
 	}
 }
-class Mul extends Sub
+//multi level inheritance
+class Mul extends Sub//sub class
 {
 	public int mult(int i,int j)
 	{
