@@ -1,4 +1,4 @@
-package oca.javaclasses.inheritancewithinterfaces;
+package oca.inheritancewithinterfaces;
 //Anonymous class is the one which has no name 
 interface Age
 {

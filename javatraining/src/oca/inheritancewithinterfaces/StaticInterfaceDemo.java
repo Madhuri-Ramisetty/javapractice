@@ -1,4 +1,4 @@
-package oca.javaclasses.inheritancewithinterfaces;
+package oca.inheritancewithinterfaces;
 interface Demo
 {
 	int n=13;

@@ -1,4 +1,4 @@
-package oca.javaclasses.inheritancewithinterfaces;
+package oca.inheritancewithinterfaces;
 //An interface is used to achieve Multiple inheritance.
 //An interface should not contain abstract methods and constructors.
 //we can give only a reference to interface and hence no object is created to an interface.
