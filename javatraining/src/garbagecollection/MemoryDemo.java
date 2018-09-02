@@ -4,7 +4,7 @@ public class MemoryDemo {
 
 	public static void main(String[] args) 
 	{
-		Runtime r=Runtime.getRuntime();  
+		Runtime r=Runtime.getRuntime();//returns instance of runtime class  
 		System.out.println("Total Memory: "+r.totalMemory());  
 		System.out.println("Free Memory: "+r.freeMemory());  
 		for(int i=0;i<10000;i++)
